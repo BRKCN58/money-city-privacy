@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brkcn58.github.io/money-city-privacy/sitemap.xml

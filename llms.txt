@@ -1,0 +1,17 @@
+# Money City
+
+> Money City is a free Android city building and real estate tycoon game by LapaGames. The player builds homes, businesses, public services and world wonders, signs rent contracts, collects rent and grows a village into a megalopolis.
+
+- Google Play: https://play.google.com/store/apps/details?id=com.lapagames.moneycity
+- Package name: com.lapagames.moneycity
+- Developer: LapaGames
+- Platform: Android, free with optional rewarded ads
+- Progression: 50 levels of new buildings; building upgrades up to 10 stars.
+- Features: rent contracts from 1 minute to 3 days, a central bank (loans and savings interest), 13 city task mini-games, mystery chests in land plots, daily rewards, lucky wheel, tour bus with tourists, photo mode, online leaderboards (level, money, rent) with golden rewards for the top player.
+- Languages: Turkish, English, Azerbaijani, German, Spanish, French, Hindi, Italian, Portuguese, Brazilian Portuguese, Russian, Chinese.
+- Playable offline.
+- Good for: players who like city builders, tycoon and idle real estate games.
+
+## Pages
+- [About the game (TR/EN)](https://brkcn58.github.io/money-city-privacy/oyun.html)
+- [Privacy policy (TR/EN)](https://brkcn58.github.io/money-city-privacy/)
